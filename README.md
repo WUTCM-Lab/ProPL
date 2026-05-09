@@ -27,6 +27,10 @@ This is the official pytorch implementation of our AAAI 2026 paper "ProPL: Unive
 
   Set the parameter `--bert_type` to the BERT weight path
 
+### Dataset
+
+The dataset could be downloaded at Baidu Netdisk Link: https://pan.baidu.com/s/1M6nJNand6RPljhYfh8f8jw?pwd=arsk access code: arsk
+
 ### Training and Test
 
 1. Training the model
